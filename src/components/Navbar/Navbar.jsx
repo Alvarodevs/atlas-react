@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 //STYLES
 import { NavLink, NavContainer, LinksContainer } from "./NavbarStyled";
-import logoAtlas from "../../assets/icons/logoAtlas.svg";
+import logoNav from "../../assets/icons/logo-nav.svg";
 
 const Navbar = () => {
    return (
@@ -17,13 +17,13 @@ const Navbar = () => {
                      <NavLink>Services</NavLink>
                   </Link>
                </div>
-               <img src={logoAtlas} alt="logo" />
+               <img src={logoNav} alt="logo" />
                <div>
                   <Link to="/about_us">
                      <NavLink>About</NavLink>
                   </Link>
                   <Link to="/contact">
-                     <NavLink>contact</NavLink>
+                     <NavLink>Contact</NavLink>
                   </Link>
                </div>
             </LinksContainer>
