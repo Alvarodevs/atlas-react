@@ -3,7 +3,10 @@ import styled from "styled-components";
 export const NavContainer = styled.nav`
    width: 100%;
    background-color: black;
-   padding: 0.5rem;
+   padding: 0.5rem 0.5rem 0 0.5rem;
+   position: fixed;
+   top: 0;
+   z-index: 1;
 `;
 
 export const LinksContainer = styled.ul`
@@ -26,4 +29,9 @@ export const NavLink = styled.li`
    list-style: none;
    padding: 1rem 2rem;
    text-align: center;
+   transition: 0.1s ease-in;
+      &:hover {
+      border-bottom: 1px solid white;
+      
+   }
 `;
