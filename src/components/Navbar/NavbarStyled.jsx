@@ -16,9 +16,7 @@ export const LinksContainer = styled.ul`
    div {
       display: flex;
    }
-   a{
-      text-decoration: none;
-   }
+   
 `;
 
 export const NavLink = styled.li`
@@ -28,5 +26,4 @@ export const NavLink = styled.li`
    list-style: none;
    padding: 1rem 2rem;
    text-align: center;
-   
 `;

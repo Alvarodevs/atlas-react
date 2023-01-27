@@ -17,7 +17,9 @@ const Navbar = () => {
                      <NavLink>Services</NavLink>
                   </Link>
                </div>
-               <img src={logoNav} alt="logo" />
+               <Link to="/">
+                  <img src={logoNav} alt="logo" />
+               </Link>
                <div>
                   <Link to="/about_us">
                      <NavLink>About</NavLink>

@@ -2,4 +2,18 @@
 
 body {
   font-family: 'Montserrat', 'Helvetica';
+  background-color: #F3F0EA;
+}
+
+:root{
+  --color-black: #0c0c0c;
+  --color-white: #fff;
+  --color-grey: #818181f5;
+  --color-red: #ED0315;
+  --color-beige: #CAAB95;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-white);
 }
