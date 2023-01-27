@@ -9,6 +9,8 @@ export const FooterContainer = styled.footer`
    display: grid;
    grid-template-columns: 1fr 2fr;
    position:relative;
+   margin-top: 1rem;
+
 `;
 
 export const LogoContainer = styled.div`
