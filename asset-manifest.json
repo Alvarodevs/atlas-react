@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atlas-react/static/css/main.a0bcd71e.css",
+    "main.js": "/atlas-react/static/js/main.a21cd4b5.js",
+    "static/media/eye.jpg": "/atlas-react/static/media/eye.490da844bb57cace86d0.jpg",
+    "static/media/basemill.png": "/atlas-react/static/media/basemill.4410b631884f8076cd19.png",
+    "static/media/lamb.png": "/atlas-react/static/media/lamb.20e61a96651b08d6a64a.png",
+    "static/media/lucsso.png": "/atlas-react/static/media/lucsso.d6adcbd01438e99275ab.png",
+    "static/media/poultry.png": "/atlas-react/static/media/poultry.b787dbb59785bfc75964.png",
+    "static/media/jewelry.png": "/atlas-react/static/media/jewelry.35b074e5d47d6c0a7153.png",
+    "static/media/womenclm.png": "/atlas-react/static/media/womenclm.1429ed096604bf5225d2.png",
+    "static/media/logo-footer.svg": "/atlas-react/static/media/logo-footer.43d59ade220a595ae9739354da9645a0.svg",
+    "static/media/logo-nav.svg": "/atlas-react/static/media/logo-nav.65642bd699970a530680dc5025c5be2f.svg",
+    "index.html": "/atlas-react/index.html",
+    "main.a0bcd71e.css.map": "/atlas-react/static/css/main.a0bcd71e.css.map",
+    "main.a21cd4b5.js.map": "/atlas-react/static/js/main.a21cd4b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0bcd71e.css",
+    "static/js/main.a21cd4b5.js"
+  ]
+}
